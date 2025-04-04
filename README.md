@@ -45,12 +45,15 @@ Welcome to my GitHub profile! I'm passionate about **tech, growth**, and buildin
 ---
 
 ## 🧠 Hacking & Security Skills
-- 🔓 Ethical Hacking Fundamentals  
-- 🕵️ Penetration Testing & Bug Hunting  
-- 🛡️ Web App Vulnerability Analysis (OWASP Top 10)  
-- 🧰 Kali Linux, Nmap, Burp Suite, Wireshark  
-- 📡 OSINT & Reconnaissance  
-- ⚠️ Hands-on CTFs & Exploit Labs  
+
+| Skill | Tools & Technologies |
+|------|------------------------|
+| 🔓 **Ethical Hacking Fundamentals** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| 🕵️ **Penetration Testing & Bug Hunting** | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat-square&logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white) |
+| 🛡️ **Web App Vulnerability Analysis (OWASP Top 10)** | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white) |
+| 📡 **OSINT & Reconnaissance** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Recon-ng](https://img.shields.io/badge/Recon--ng-grey?style=flat-square) |
+| ⚠️ **Hands-on CTFs & Exploit Labs** | ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white) ![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black) |
+
 
 ---
 
