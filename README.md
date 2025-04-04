@@ -1,60 +1,53 @@
 # 👋 Hey there! I'm Krishna Yadav
 
-Welcome to my GitHub profile! I'm passionate about tech, growth, and building solutions that make a real impact.
+Welcome to my GitHub profile! I'm passionate about **tech, growth**, and building solutions that make a **real impact**. I love learning, creating, and collaborating on ideas that can change the world.
 
 ---
 
 ## 👀 Interests
 - 💻 Software Development  
 - 🌐 Web Technologies & Full Stack Engineering  
-- 🧪 Open Source Contribution  
+- 🧠 AI, Machine Learning & Automation  
 - 🔐 Cybersecurity & Ethical Hacking  
-- 🤖 AI & Automation  
+- 🧪 Open Source Projects  
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Web Development (React, Node.js, Next.js)
+- React, Node.js, Next.js (Advanced Web Dev)
+- AI/ML integration into real-world projects
 - Cybersecurity Fundamentals & Threat Intelligence
-- AI/ML Integration into Real-World Applications
-- DevOps & Cloud Platforms (AWS, Docker, CI/CD)
+- DevOps & Cloud (AWS, Docker, CI/CD)
 
 ---
 
-## 💻 Languages & Tools
-
-![HTML](https://skillicons.dev/icons?i=html)  
-![CSS](https://skillicons.dev/icons?i=css)  
-![JavaScript](https://skillicons.dev/icons?i=javascript)  
-![TypeScript](https://skillicons.dev/icons?i=typescript)  
-![React](https://skillicons.dev/icons?i=react)  
-![Node.js](https://skillicons.dev/icons?i=nodejs)  
-![Next.js](https://skillicons.dev/icons?i=nextjs)  
-![Python](https://skillicons.dev/icons?i=python)  
-![C++](https://skillicons.dev/icons?i=cpp)  
-![MongoDB](https://skillicons.dev/icons?i=mongodb)  
-![MySQL](https://skillicons.dev/icons?i=mysql)  
-![Git](https://skillicons.dev/icons?i=git)  
-![Linux](https://skillicons.dev/icons?i=linux)  
-![Docker](https://skillicons.dev/icons?i=docker)  
-![AWS](https://skillicons.dev/icons?i=aws)
+## 💻 Languages I’ve Learned
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,cpp,mongodb,mysql,git,linux)
 
 ---
 
 ## 💞️ Looking to Collaborate On
 - 🚀 Innovative Tech Startups  
-- 🧠 AI or Cybersecurity-based Tools  
-- ⚙️ SaaS Applications  
-- 🤝 Open Source Projects  
+- 🔓 Cybersecurity Tools & Platforms  
+- ⚙️ SaaS Applications & Automation Tools  
+- 🤝 Open Source Contributions  
+
+---
+
+## 📊 GitHub Stats
+
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itskrishnayadav&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskrishnayadav&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 📫 How to Reach Me
 - 📧 Email: 
-- 💼 LinkedIn: 
+- 💼 LinkedIn:
 - 🐦 Twitter: 
 
 ---
 
-Let’s connect, collaborate, and create something amazing! 💡
+Let's **connect**, **collaborate**, and **create something amazing**! 🚀
+
 
