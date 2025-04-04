@@ -21,33 +21,36 @@ Welcome to my GitHub profile! I'm passionate about **tech, growth**, and buildin
 
 ---
 
-## 💻 Languages I’ve Learned
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,cpp,mongodb,mysql,git,linux)
+## 💻 Languages, Tools & Platforms
+![My Skills](https://skillicons.dev/icons?i=js,py,ts,solidity,html,css,bootstrap,nodejs,react,redux,nginx,linux,azure,digitalocean,netlify,canva,git,mongodb,mysql,cpp,yarn)
+
+> Also working with: React Router, Pandas, NumPy, CI/CD, Web Security, REST APIs, Figma, and more.
 
 ---
 
-## 💞️ Looking to Collaborate On
-- 🚀 Innovative Tech Startups  
-- 🔓 Cybersecurity Tools & Platforms  
-- ⚙️ SaaS Applications & Automation Tools  
-- 🤝 Open Source Contributions  
+## 🧠 Hacking & Security Skills
+- 🔓 Ethical Hacking Fundamentals  
+- 🕵️ Penetration Testing Basics  
+- 🛡️ Web App Vulnerability Analysis  
+- 🧰 Kali Linux & Reconnaissance Tools  
+- 🧬 Threat Mapping & Risk Analysis  
+- 🔥 Hands-on CTFs & Exploit Labs  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itskrishnayadav&show_icons=true&theme=radical&hide_border=true)
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itskrishnayadav&show_icons=true&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskrishnayadav&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 📫 How to Reach Me
 - 📧 Email: 
-- 💼 LinkedIn:
-- 🐦 Twitter: 
-
+- 💼 LinkedIn: 
+- 🐦 Twitter:
 ---
 
-Let's **connect**, **collaborate**, and **create something amazing**! 🚀
+Let's **connect**, **build**, and **secure the digital world together**! 🚀🛡️
 
 
