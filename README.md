@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about **tech, growth**, and buildin
 ---
 
 ## 💻 Languages, Tools & Platforms
-![My Skills](https://skillicons.dev/icons?i=js,py,ts,solidity,html,css,bootstrap,nodejs,react,redux,nginx,linux,azure,digitalocean,netlify,canva,git,mongodb,mysql,cpp,yarn)
+![My Skills](https://skillicons.dev/icons?i=js,py,ts,,html,css,bootstrap,nodejs,react,redux,nginx,linux,azure,digitalocean,netlify,canva,git,mongodb,mysql,cpp,yarn)
 
 > Also working with: React Router, Pandas, NumPy, CI/CD, Web Security, REST APIs, Figma, and more.
 
