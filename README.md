@@ -21,20 +21,36 @@ Welcome to my GitHub profile! I'm passionate about **tech, growth**, and buildin
 
 ---
 
-## 💻 Languages, Tools & Platforms
-![My Skills](https://skillicons.dev/icons?i=js,py,ts,,html,css,bootstrap,nodejs,react,redux,nginx,linux,azure,digitalocean,netlify,canva,git,mongodb,mysql,cpp,yarn)
+## 💻 Tech Stack & Tools
 
-> Also working with: React Router, Pandas, NumPy, CI/CD, Web Security, REST APIs, Figma, and more.
+### 👨‍💻 Languages
+![Languages](https://skillicons.dev/icons?i=js,ts,py,cpp,solidity)
+
+### 🌐 Web Development
+![Frontend & Backend](https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,nodejs,redux,express)
+
+### 🧠 AI & Data Science
+![Data Tools](https://skillicons.dev/icons?i=python)
+> Tools: Pandas, NumPy, scikit-learn, Jupyter, Google Colab
+
+### 🧰 DevOps & Cloud
+![Cloud & DevOps](https://skillicons.dev/icons?i=docker,aws,azure,digitalocean,netlify,nginx,linux)
+
+### 🛢️ Databases
+![DBs](https://skillicons.dev/icons?i=mongodb,mysql)
+
+### ⚙️ Tools & Utilities
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,yarn,figma,canva,postman)
 
 ---
 
 ## 🧠 Hacking & Security Skills
 - 🔓 Ethical Hacking Fundamentals  
-- 🕵️ Penetration Testing Basics  
-- 🛡️ Web App Vulnerability Analysis  
-- 🧰 Kali Linux & Reconnaissance Tools  
-- 🧬 Threat Mapping & Risk Analysis  
-- 🔥 Hands-on CTFs & Exploit Labs  
+- 🕵️ Penetration Testing & Bug Hunting  
+- 🛡️ Web App Vulnerability Analysis (OWASP Top 10)  
+- 🧰 Kali Linux, Nmap, Burp Suite, Wireshark  
+- 📡 OSINT & Reconnaissance  
+- ⚠️ Hands-on CTFs & Exploit Labs  
 
 ---
 
@@ -48,9 +64,11 @@ Welcome to my GitHub profile! I'm passionate about **tech, growth**, and buildin
 ## 📫 How to Reach Me
 - 📧 Email: 
 - 💼 LinkedIn: 
-- 🐦 Twitter:
+- 🐦 Twitter: 
+
 ---
 
 Let's **connect**, **build**, and **secure the digital world together**! 🚀🛡️
+
 
 
